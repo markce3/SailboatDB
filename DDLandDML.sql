@@ -1,10 +1,4 @@
 /*
-Script File for GP#1
-IS443/543 SP 24
-Group A
-Members: Chibuikem Mark Emenyonu
-		 Marquise Robinson
-		 Ikenna Frank Obika
 Date: April 24, 2024
 */
 
